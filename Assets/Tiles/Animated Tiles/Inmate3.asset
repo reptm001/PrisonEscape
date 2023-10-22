@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Inmate3
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 5681828404553002262, guid: b914da77c5c4be94abafedcb9f1fd640, type: 3}
+  - {fileID: 4795236220724699323, guid: b914da77c5c4be94abafedcb9f1fd640, type: 3}
+  - {fileID: -244242907846261301, guid: b914da77c5c4be94abafedcb9f1fd640, type: 3}
+  - {fileID: -1523143518093063658, guid: b914da77c5c4be94abafedcb9f1fd640, type: 3}
+  - {fileID: 3548645000687054199, guid: b914da77c5c4be94abafedcb9f1fd640, type: 3}
+  - {fileID: -6237865757209319525, guid: b914da77c5c4be94abafedcb9f1fd640, type: 3}
+  m_MinSpeed: 4
+  m_MaxSpeed: 4
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
